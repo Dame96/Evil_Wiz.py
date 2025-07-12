@@ -1,9 +1,9 @@
 # Evil_Wiz.py
-Advanced Python Mod 2 Project
 
-Hello World..welcome to my "Evil Wizard" game! 
 
-My motivation was to use the advanced concepts of the Python language that I have been studying to create a fun interactive game 
+Hello World..welcome to my "Evil Wizard" CLI game! 
+
+My motivation was to use the concepts of the Python language that I have been studying to create a fun interactive CLI game 
 so I built this program. Utilizing the OOP Priciples, conditional statements and loops I was able to successfully
 achiecve the goal. 
 
